@@ -56,10 +56,14 @@ body{
     position: relative;
     cursor: pointer;
 }
+.faq-dropdown-header:hover{
+    color: var(--Grayish-purple);
+}
 .faq-dropdown-header h4{
     font-weight: 600;
     width: 95%;
 }
+
 .faq-icon{
     border: 0px;
     width: 30px;
